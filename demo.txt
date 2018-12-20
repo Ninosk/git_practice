@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 ﻿Me tomo la linea 1!! >:D
 ¡Gitea baby, gitea!
 demo -Franco
 
 girafa!!!
+=======
+demo -Franco
+
+
+brach Nino! XD
+segundo round piwi (github)
+COOONCHASUMADRE!!! (Local)
+>>>>>>> piwi
